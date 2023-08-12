@@ -1,19 +1,23 @@
 h1 {
-    font-size: 80px;
-    font-family: 'Courier New', Courier, monospace;
-    background-color: aqua;
     text-align: center;
-    color: purple;
+    background-color: aqua;
+}
+
+ul {
+    background-color: orange;
+    padding: 0;
 }
 
 li {
-    font-size: 30px;
-    color: orange;
-    text-align: right;
+    padding: 5px;
+    margin: auto;
+    background-color: green;
 }
 
 .bruh {
-    font-size: 150px;
+    font-size: 48px;
+    margin: 20px auto;
+    display: block;
+    background-color: blanchedalmond;
     text-align: center;
-    font-family: cursive, fantasy, monospace;
 }
